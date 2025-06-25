@@ -1,0 +1,21 @@
+{
+  "name": "KORUPTO Token List",
+  "logoURI": "https://raw.githubusercontent.com/bgus07/-RPTO/main/assets/mainnet/DNBSznLe4jbyvR97fCLyZzUcjd6mr5bCBc1zskEB7sZC.png",
+  "timestamp": "2025-06-25T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "DNBSznLe4jbyvR97fCLyZzUcjd6mr5bCBc1zskEB7sZC",
+      "symbol": "RPTO",
+      "name": "KORUPTO",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/bgus07/-RPTO/main/assets/mainnet/DNBSznLe4jbyvR97fCLyZzUcjd6mr5bCBc1zskEB7sZC.png",
+      "tags": ["memecoin", "satire"],
+      "extensions": {
+        "website": "https://korupto.rakyat.boongan",
+        "twitter": "https://twitter.com/koruptocoin",
+        "description": "KORUPTO ($RPTO) adalah memecoin satire tentang korupsi di Indonesia. Untuk edukasi & hiburan, bukan untuk investasi."
+      }
+    }
+  ]
+}
