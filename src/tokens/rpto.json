@@ -1,6 +1,6 @@
 {
   "name": "KORUPTO Token List",
-  "logoURI": "https://raw.githubusercontent.com/bgus07/-RPTO/main/assets/mainnet/DNBSznLe4jbyvR97fCLyZzUcjd6mr5bCBc1zskEB7sZC.png",
+  "logoURI": "https://raw.githubusercontent.com/bgus07/-RPTO/main/assets/mainnet/assets/mainnet/KORUPTO_icon (1).png",
   "timestamp": "2025-06-25T00:00:00+00:00",
   "tokens": [
     {
@@ -9,7 +9,7 @@
       "symbol": "RPTO",
       "name": "KORUPTO",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/bgus07/-RPTO/main/assets/mainnet/DNBSznLe4jbyvR97fCLyZzUcjd6mr5bCBc1zskEB7sZC.png",
+      "logoURI": "https://raw.githubusercontent.com/bgus07/-RPTO/main/assets/mainnet/assets/mainnet/KORUPTO_icon (1).png",
       "tags": ["memecoin", "satire"],
       "extensions": {
         "website": "https://korupto.rakyat.boongan",
